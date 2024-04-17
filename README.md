@@ -25,7 +25,7 @@ O **FontForge** é a principal ferramenta usada para a criação e edição da f
 
 ### Documentações
 
-Para saber mais sobre o **FontForge** e o **Inkscape** e como utilizá-los, consulte a [documentação oficial do FontForge](https://fontforge.org/docs/){target="_blank"} e a [documentação oficial do Inkscape](https://inkscape.org/docs/){target="_blank"}.
+Para saber mais sobre o **FontForge** e o **Inkscape** e como utilizá-los, consulte a [documentação oficial do FontForge](https://fontforge.org/docs/) e a [documentação oficial do Inkscape](https://inkscape.org/docs/).
 
 ## Progresso
 
