@@ -37,7 +37,7 @@ Para saber mais sobre o **FontForge** e o **Inkscape** e como utilizá-los, cons
 
 ## Download
 
-Para baixar a fonte, acesse a página de [releases](https://github.com/felipetr/laurinha/releases/tag/ttf)
+Para baixar a fonte, acesse a página de [releases](https://github.com/felipetr/laurinha/releases/tag/ttf).
 
 ## Licença
 
