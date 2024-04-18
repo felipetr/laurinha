@@ -29,11 +29,11 @@ Para saber mais sobre o **FontForge** e o **Inkscape** e como utilizá-los, cons
 
 ## Progresso
 
-- [ ] Digitalizar amostras da caligrafia da minha mãe usando o Inkscape.
-- [ ] Importar amostras digitalizadas para o FontForge.
-- [ ] Refinar e ajustar cada caractere para garantir consistência e legibilidade.
-- [ ] Testar a fonte em diferentes contextos e aplicativos.
-- [ ] Lançar a fonte para uso público.
+- [x] Digitalizar amostras da caligrafia da minha mãe usando o Inkscape.
+- [x] Importar amostras digitalizadas para o FontForge.
+- [x] Refinar e ajustar cada caractere para garantir consistência e legibilidade.
+- [x] Testar a fonte em diferentes contextos e aplicativos.
+- [x] Lançar a fonte para uso público.
 
 ## Licença
 
