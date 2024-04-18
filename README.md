@@ -35,6 +35,10 @@ Para saber mais sobre o **FontForge** e o **Inkscape** e como utilizá-los, cons
 - [x] Testar a fonte em diferentes contextos e aplicativos.
 - [x] Lançar a fonte para uso público.
 
+## Download
+
+Para baixar a fonte, acesse a página de [releases](https://github.com/felipetr/laurinha/releases/tag/ttf)
+
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
